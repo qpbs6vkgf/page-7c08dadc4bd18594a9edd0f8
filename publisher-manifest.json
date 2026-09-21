@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "71c49677d58376dd50faa23a",
+  "owner": "qpbs6vkgf",
+  "repo": "page-7c08dadc4bd18594a9edd0f8",
+  "title": "科学网(v2ray)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7c08dadc4bd18594a9edd0f8",
+      "a": "科学网(v2ray)",
+      "b": "稳定全球clash加速器",
+      "entity": "科学网(v2ray)",
+      "brand": "科学网(v2ray)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "7745ec594adcdd9c4e37f71d90639aec5b573439af1c784e6505bedb1c53aafd",
+      "content": {
+        "primary_entity": "科学网(v2ray)",
+        "keyword1": "科学网(v2ray)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，Windows 与 macOS 可用 Clash Verge，Android 可用 Clash Meta，iOS 与路由器按订阅格式导入。",
+          "AI_CLIENTS_TITLE": "设备对应客户端",
+          "AI_CLOSING_TEXT": "选定套餐、下载客户端并导入订阅，即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置订阅",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，分别对应每月 100GB、300GB 与 1000GB 流量，支持 3 台、5 台与 20 台设备同时在线，并可按年付享受优惠。客户端覆盖 Windows、macOS、Android、iOS 与路由器，按客户端文档导入 Clash 订阅即可完成配置。",
+          "AI_FEATURES_INTRO": "从套餐、设备与订阅周期三个角度选择。",
+          "AI_FEATURES_TITLE": "选购要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版与团队版提供原生流媒体解锁及专属节点，团队版支持企业定制路由与专属客户经理。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "按需求选套餐",
+          "AI_FEATURE_TITLE_2": "按规模配节点",
+          "AI_FEATURE_TITLE_3": "按周期算成本",
+          "AI_GUIDE_INTRO": "选套餐、查适配、导入订阅，三步完成配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "科学网(v2ray)提供多档订阅套餐与 Clash 客户端配置方案，根据使用设备数量和流量需求选择基础版、旗舰版或团队版，并按客户端文档导入订阅节点。",
+          "AI_HERO_SUBTITLE": "多档套餐适配多设备",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "支持 Clash 订阅导入",
+          "AI_HIGHLIGHT_3": "年付方案更省成本",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版适合多设备流媒体与游戏，团队版适合多人共享与高带宽场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版与团队版之间确定合适套餐。",
+          "AI_STEP_TEXT_2": "确认设备系统对应的 Clash 客户端，查看套餐支持的设备数量与节点类型。",
+          "AI_STEP_TEXT_3": "在客户端订阅管理中粘贴订阅地址，更新节点后按需选择线路。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "科学网订阅套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "科学网(v2ray)支持哪些设备使用？",
+          "AI_FAQ_ANSWER_1": "订阅可在支持相关协议的客户端中导入，Windows、macOS、Android、iOS及部分路由器系统均有常见客户端可选，具体兼容性以客户端文档为准。",
+          "AI_FAQ_QUESTION_2": "基础版和旗舰版主要差别是什么？",
+          "AI_FAQ_ANSWER_2": "基础版每月100GB流量、支持3台设备，适合轻度使用；旗舰版每月300GB流量、支持5台设备，并含IPLC专线优化，更适合流媒体和游戏场景。",
+          "AI_FAQ_QUESTION_3": "团队版适合什么情况？",
+          "AI_FAQ_ANSWER_3": "团队版每月1000GB流量、支持20台设备，提供VIP专属高带宽节点和企业定制路由，适合多人协作或对带宽要求较高的团队。",
+          "AI_FAQ_QUESTION_4": "年付比月付划算吗？",
+          "AI_FAQ_ANSWER_4": "基础版年付¥150相当于每月约¥12.5，旗舰版年付¥350相当于每月约¥29，团队版年付¥850相当于每月约¥70。长期使用可选年付。",
+          "AI_FAQ_QUESTION_5": "如何导入订阅链接？",
+          "AI_FAQ_ANSWER_5": "在对应客户端中找到订阅或配置导入入口，粘贴订阅链接并更新，客户端会自动获取节点列表。导入后建议测试延迟并选择合适线路。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "mywhl.cn",
+    "host": "mywhl.cn"
+  },
+  "file_hashes": {
+    "index.html": "dd4702d5a8833edfae55cc7ed2aa31b3535f2358f7bc1beb7041623626c737b2",
+    "sitemap.xml": "f883545995a4e8603c2e9f57dc80d9da746c8d320985077905ead3948d0950db",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "21895da4bb2a620bd9a0d98d6f49adbbfd5ff317f0a6790f428001b69cd9ea91",
+    "robots.txt": "1264e9678a11ab08d12268f1191841c3c045b85257df41a690633fe7ac358c83",
+    "e5e2ad6710beae0f66d1d9e49a055b76.txt": "45aeaee6f67f1f02efc7b16add2fb5c46ef672525315d94420a5f4b356b7b20e"
+  },
+  "revision": "e071a9955076c05809f24395511a9cb7138ea04bb02162cbdd2c78465d19631d"
+}
